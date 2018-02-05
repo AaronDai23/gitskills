@@ -1,1 +1,4 @@
 # gitskills
+@interface abc()
+
+@end
